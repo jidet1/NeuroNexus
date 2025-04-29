@@ -12,7 +12,6 @@ A simple chatbot that responds to user inputs based on predefined rules. This pr
 
 **Key Features:**
 - Pattern-based response generation
-- Remembers user's name
 - GUI built with Tkinter
 - Responds when Enter key is pressed
 - Close button for graceful exit

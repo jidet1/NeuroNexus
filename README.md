@@ -1,6 +1,6 @@
 # NeuroNexus
 
-**NeuroNexus** is a collection of beginner-friendly AI and Python mini-projects designed to build a foundational understanding of artificial intelligence, game theory, and basic natural language processing (NLP).
+**This** is a collection of beginner-friendly AI and Python mini-projects designed to build a foundational understanding of artificial intelligence, game theory, and basic natural language processing (NLP).
 
 ---
 
